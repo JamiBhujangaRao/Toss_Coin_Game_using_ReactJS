@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.toss-image {
+  height: 250px;
+}
+.app-contianer {
+  background-color: #f9d423;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
+.coin-card-container {
+  background-color: white;
+  height: 60vh;
+  width: 55vw;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.heading {
+  font-size: 40px;
+  font-weight: bold;
+  color: #a35200;
+}
+.about {
+  font-size: 27px;
+  color: black;
+}
+.tossBtn {
+  background-color: #f9d423;
+  font-size: 22px;
+  color: #a35200;
+  height: 50px;
+  width: 120px;
+  padding: 10px;
+  border-width: 0px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+.result-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+}
+.results {
+  font-size: 25px;
+  color: #334155;
+  margin: 30px;
+  
+}
